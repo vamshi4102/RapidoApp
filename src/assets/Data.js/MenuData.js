@@ -1,0 +1,22 @@
+export const ServiceData = [
+    {
+        id:'1',
+        name:'Bike',
+        image:'https://cdn-icons-png.flaticon.com/512/1686/1686197.png',
+    },
+    {
+        id:'2',
+        name:'Auto',
+        image:'https://img.freepik.com/premium-vector/graphic-illustration-auto-rickshaw-rickshaw-is-indian-taxi-transport_830469-14.jpg',
+    },
+    {
+        id:'3',
+        name:'Car',
+        image:'https://www.creativefabrica.com/wp-content/uploads/2022/10/23/Cute-Car-Illustration-Graphics-42882559-1-1-580x387.jpg',
+    },
+    {
+        id:'4',
+        name:'Parcel',
+        image:'https://img.freepik.com/free-vector/3d-delivery-box-parcel_78370-825.jpg?size=338&ext=jpg&ga=GA1.1.735520172.1710806400&semt=ais',
+    }
+]
